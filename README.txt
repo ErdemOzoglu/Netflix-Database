@@ -1,4 +1,4 @@
-Emirhan Ekşi
+Erdem Özoğlu
 
 dist dosyasının içerisindeki 'proje3' isimli Exe'den uygulamayı çalıştırabilirsiniz.
 
